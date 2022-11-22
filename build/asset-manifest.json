@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4f95897c.css",
+    "main.js": "/static/js/main.3867b4b2.js",
+    "static/media/matric.png": "/static/media/matric.9d82096f0ed1391019d4.png",
+    "static/media/back.png": "/static/media/back.5316d4c52ca36692589f.png",
+    "static/media/git.png": "/static/media/git.b17807d8139c878ad81f.png",
+    "static/media/pallo.jpg": "/static/media/pallo.816e480f2a85ae92fa77.jpg",
+    "static/media/logo.png": "/static/media/logo.e0c0a77738ffb202ff17.png",
+    "static/media/linked.png": "/static/media/linked.a82f02cf8bce77329ca8.png",
+    "static/media/maryvale.png": "/static/media/maryvale.61949b3fb1b0ce68bb26.png",
+    "index.html": "/index.html",
+    "main.4f95897c.css.map": "/static/css/main.4f95897c.css.map",
+    "main.3867b4b2.js.map": "/static/js/main.3867b4b2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f95897c.css",
+    "static/js/main.3867b4b2.js"
+  ]
+}

@@ -1,0 +1,13 @@
+
+
+
+body {
+  margin: 0;
+  color: white;
+  line-height: 1;
+  background-image: url(../src/back.png);
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+}
+

@@ -1,0 +1,80 @@
+
+
+
+.images{
+    width: 90%;
+    aspect-ratio: 1/1;
+    border-radius: 2rem;
+    place-items: center;
+    display: grid;
+    padding: 1rem;
+    margin: 0.5rem;
+
+    pointer-events: none;
+    
+}
+
+
+.aboutme{
+    padding: 0.3rem;
+    background-color: gray;
+    width: 60%;
+    height: 100%;
+    text-align: center;
+    border-radius: 0.5rem;
+    
+
+}
+
+story{
+    font: 1em sans-serif;
+    
+}
+
+.About{    
+        
+    display: grid;
+    place-items: center;
+    padding: 1rem;
+    
+
+}
+
+
+
+.git{
+    width: 10vmin;
+}
+.linked{
+    width: 10vmin;
+}
+
+.Con{
+    padding: 1rem;
+}
+
+
+.Exp{
+    
+    display: grid;
+    place-items: center;
+    
+    padding: 1rem;
+}
+titl{
+    font: bold 1em sans-serif;
+    padding: 1rem;
+
+}
+
+expr{
+    
+    background-color: gray;
+    width: 200%;
+    height: 140%;
+    text-align: center;
+    border-radius: 1rem;
+    display: grid;
+    place-items: center;
+    
+}
