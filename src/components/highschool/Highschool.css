@@ -1,37 +1,73 @@
 
 
 links{
-    
-   
     text-align: center;
     
 }
 
 .Con{
     
-    display: grid;
-    place-items: center;
+    text-align: center;
     
     
 }
 
-.matric{
-    height: 200vmin;
-    padding: 1rem;
-    border-radius: 2rem;
-    pointer-events: none;
-    
 
-}
 
 h2{
     text-align: center;
     border-radius: 1rem;
-    display: grid;
-    place-items: center;
+    
+    
     
     width: 50%;
     
     
 }
+hp{
+    font-size: 50px;
+}
 
+.lynd{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    padding: 1rem;
+    margin: 0.5rem;
+}
+
+.prim{
+    width: 30%;
+    pointer-events: none;
+}
+
+store{
+
+    text-align: center;
+    width: 50%;
+    padding: 1rem;
+    margin: 0.5rem;
+    
+
+}
+
+
+.hlink{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: azure;
+    width: auto;
+}
+
+.vale{
+    padding: 1rem;
+    margin: 0.5rem;
+    display: flex;
+    justify-content: center;
+}
+
+.Highs{
+    width: 80%;
+    pointer-events: none;
+}

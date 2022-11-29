@@ -13,8 +13,8 @@ function Home() {
 
       </imag>
       <note  className="notes">
-        Note :I am a keen software developer. The content, and look of this website will change without notice
-        if you are a developer and have any advice for my site let me know.
+        Note :I am a keen software developer. The content, and look of this website will change without notice.
+        If you are a developer and have any advice for my site let me know.
       </note>
       
 

@@ -1,0 +1,12 @@
+.plan{
+
+    display: grid;
+    text-align: center;
+}
+
+.title{
+    
+    margin: 0.5rem;
+    font-weight: bold;
+}
+
